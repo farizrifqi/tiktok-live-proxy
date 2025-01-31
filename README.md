@@ -1,6 +1,6 @@
-# Adv-TTL-Proxy-Worker
+# Tiktok Live Proxy
 
-This is a Cloudflare Worker designed to proxy TikTok Live stream segments. It is part of the **Adv-TTL** project, which provides tools for interacting with TikTok Live streams.
+This is a Cloudflare Worker designed to proxy TikTok Live stream segments. It is part of the [Tiktok Live Monitoring](https://github.com/farizrifqi/tiktok-live-monitoring-webui) project, which provides tools for interacting with TikTok Live streams.
 
 ## Features
 
@@ -38,7 +38,7 @@ This is a Cloudflare Worker designed to proxy TikTok Live stream segments. It is
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/farizrifqi/adv-ttl-proxy-worker.git
+   git clone https://github.com/farizrifqi/tiktok-live-proxy.git
    cd adv-ttl-proxy-worker
    ```
 
@@ -54,8 +54,8 @@ This project is open-source and available under the **[MIT License](https://open
 
 ## Acknowledgments
 
-- [Adv-TTL-Client](https://github.com/farizrifqi/adv-ttl-client): The client-side application that interacts with this server.
-- [Adv-TTL-Server](https://github.com/farizrifqi/adv-ttl-server): For the main server as connector to Tiktok livestream with build-in proxy stream.
+- [Tiktok Live Monitoring (WebUI)](https://github.com/farizrifqi/tiktok-live-monitoring-webui): The client-side application that interacts with this server.
+- [TikTok Live Monitoring (Server)](https://github.com/farizrifqi/tiktok-live-monitoring-server): For the main server as connector to Tiktok livestream with build-in proxy stream.
 
 ## Support
 
